@@ -8,3 +8,9 @@ Nos permite interactivamente analizar nuestros datos en Jupyter Notebooks sin la
 
 👉 **https://pypi.org/project/pivottablejs/**
 ****************************************************************************************************************
+<b><h1>🐍 2. PyTube</h1></b>
+</b>
+Videos en tu pc en tan solo unas líneas de código</b>
+
+👉 **pytube.io/en/latest/**
+****************************************************************************************************************
